@@ -4,7 +4,7 @@ An advanced AI pipeline engineered to process raw conversational audio, perform 
 
 ---
 
-## 🚀 Core Features
+##  Core Features
 
 * **Audio-to-Text Pipeline:** High-accuracy neural speech transcription handling variable audio quality and noise thresholds.
 * **Semantic Triage & NLP:** Custom tokenization, part-of-speech (POS) tagging, and named entity recognition (NER) optimized for extracting actionable facts from dialogue.
@@ -12,7 +12,7 @@ An advanced AI pipeline engineered to process raw conversational audio, perform 
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 * **Languages & Core:** Python, Bash
 * **Speech & NLP Processing:** Hugging Face Transformers, Whisper / Wav2Vec2 models, Spacy
@@ -21,7 +21,7 @@ An advanced AI pipeline engineered to process raw conversational audio, perform 
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 Ensure you have Python 3.10+ installed along with `ffmpeg` for system-level audio processing.
 
