@@ -1,4 +1,4 @@
-# Neural Speech-Driven Knowledge Extractor (NSKE) 🎙️➡️🧠
+# Neural Speech-Driven Knowledge Extractor (NSKE) 
 
 An advanced AI pipeline engineered to process raw conversational audio, perform automated speech recognition (ASR), and execute entity-relation extraction to transform unstructured speech into structured, queryable knowledge graphs or semantic insights.
 
